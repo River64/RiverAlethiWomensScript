@@ -1,0 +1,6 @@
+This is a digital font based on the Alethi women's script from the Stormlight Archive.
+
+Contributors: Brandon Sanderson wrote the book series (the Stormlight Archive)
+that the Alethi script is from, Isaac Stewart made the script and the number
+glyphs, and I (River) designed a digital font from it and added some
+characters.
